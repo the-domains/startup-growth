@@ -2,12 +2,13 @@ name: Startup Growth
 favicon: null
 layout_spectrum: 0.6866474105045199
 typography_spectrum: 0.12008929927833378
+title: 'A collection of the best articles out there to help startups grow. Strategy, Marketing, Funding, Messaging, Branding, Market/Fit, Product Marketing & more.'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74522012-1
   facebook: null
   twitter: null
 opengraph:
